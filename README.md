@@ -1,4 +1,4 @@
-\### Hi I'm Sarah Tomaz 👋
+## Hi I'm Sarah Tomaz 👋
 
 - 🔭 I am currently studying for artificial intelligence projects, and I intend to specialize in this area
 - 🌱 I’m currently learning Python, JavaScript, HTML and CSS and C++
