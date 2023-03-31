@@ -32,5 +32,4 @@
  
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/SarahTomaz/SarahTomaz/output/github-contribution-grid-snake-dark.svg)
 
