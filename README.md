@@ -1,6 +1,6 @@
 ## Hi I'm Sarah Tomaz 👋
 
-- 🔭 I am currently studying for artificial intelligence projects
+- 🔭 I am currently studying for artificial intelligence projects and machine learning
 - 🌱 I’m currently learning Python, JavaScript, HTML and CSS and C++
 - 👩‍💻 I'm wanting to collaborate artificial intelligence
 - 🎮 In my spare time I also do live
