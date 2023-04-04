@@ -17,9 +17,9 @@
   <img align="center" alt="Sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sarah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sarah-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Sarah-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/999852856922353807/1091449059178450964/download20230305163628_3.png?width=466&height=452">
+ <img align="right" alt="Sarah-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/999852856922353807/1091449059178450964/download20230305163628_3.png?width=466&height=452">
 </div>
   
   ##
