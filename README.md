@@ -1,7 +1,7 @@
 ## Hi I'm Sarah Tomaz 👋
 
 - 🔭 I am currently studying for artificial intelligence projects and machine learning
-- 🌱 I’m currently learning Python, JavaScript, HTML and CSS and C++
+- 🌱 I’m currently learning Python e Java
 - 👩‍💻 I'm wanting to collaborate artificial intelligence, as i am passionate about machine learning
 - 🎮 In my spare time I also do live
 - 😄 Pronouns: she/her
@@ -18,6 +18,7 @@
   <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sarah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sarah-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+   <img align="center" alt="Sarah-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
  <img align="right" alt="Sarah-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/999852856922353807/1091449059178450964/download20230305163628_3.png?width=466&height=452">
 </div>
