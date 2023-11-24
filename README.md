@@ -2,7 +2,7 @@
 
 - 🔭 I am currently studying for artificial intelligence projects and machine learning
 - 🌱 I’m currently learning Python, JavaScript, HTML and CSS and C++
-- 👩‍💻 I'm wanting to collaborate artificial intelligence
+- 👩‍💻 I'm wanting to collaborate artificial intelligence, as i am passionate about machine learning
 - 🎮 In my spare time I also do live
 - 😄 Pronouns: she/her
 
