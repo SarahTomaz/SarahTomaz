@@ -20,7 +20,7 @@
   <img align="center" alt="Sarah-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="Sarah-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
- <img align="right" alt="Sarah-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/999852856922353807/1091449059178450964/download20230305163628_3.png?width=466&height=452">
+ <img align="right" alt="Sarah-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/999852856922353807/1220677755109380116/octocat-1711102462865.png?ex=660fcfbf&is=65fd5abf&hm=656124a09d9f8f76900623ff9bed125a50fe39f5b1368e9424af96dfcb060216&=&format=webp&quality=lossless&width=424&height=424">
 </div>
   
   ##
