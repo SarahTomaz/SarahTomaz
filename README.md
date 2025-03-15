@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <h2>Hi I'm Sarah Tomaz 👋</h2>
       <ul>
         <li>🔭 I am currently studying for artificial intelligence projects and machine learning</li>
@@ -10,7 +10,7 @@
         <li>😄 Pronouns: she/her</li>
       </ul>
     </td>
-    <td width="50%">
+    <td>
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=vyt6qu3pnta9vlcy5vgzesxpz&count=5&width=400" alt="Spotify Recently Played">
     </td>
   </tr>
