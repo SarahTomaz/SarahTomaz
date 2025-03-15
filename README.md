@@ -1,4 +1,4 @@
-<table>
+<table width="50%" >
       <h2>Hi I'm Sarah Tomaz 👋</h2>
       <ul style="list-style-type: none; padding-left: 0;">
         <li>🔭 I am currently studying for artificial intelligence projects and machine learning</li>
