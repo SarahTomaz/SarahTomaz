@@ -1,5 +1,5 @@
 <table>
- <td width="50%">
+  <td width="50%">
   <h2>Hi I'm Sarah Tomaz 👋</h2>
   <ul>
     <li>🔭 I am currently studying for artificial intelligence projects and machine learning</li>
@@ -8,7 +8,7 @@
     <li>🎮 In my spare time I also do live</li>
     <li>😄 Pronouns: she/her</li>
   </ul>
-</td>
+ </td>
 </table>
 
 <div align="center">
