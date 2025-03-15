@@ -1,6 +1,6 @@
 <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td width="50%" style="border: none;">
+    <td style="border: none;">
       <h2>Hi I'm Sarah Tomaz 👋</h2>
       <ul style="list-style-type: none; padding-left: 0;">
         <li>🔭 I am currently studying for artificial intelligence projects and machine learning</li>
