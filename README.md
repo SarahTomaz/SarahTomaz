@@ -1,14 +1,12 @@
-<table>
-      <h2>Hi I'm Sarah Tomaz 👋</h2>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>🔭 I am currently studying for artificial intelligence projects and machine learning</li>
-        <li>🌱 I'm currently learning Python e Java</li>
-        <li>👩‍💻 I'm wanting to collaborate artificial intelligence, as i am passionate about machine learning</li>
-        <li>🎮 In my spare time I also do live</li>
-        <li>😄 Pronouns: she/her</li>
-      </ul>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=vyt6qu3pnta9vlcy5vgzesxpz&count=5&width="400px" max-width="400px" width="400px" align="right alt="Spotify Recently Played">
-</table>
+## Hi I'm Sarah Tomaz 👋
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=vyt6qu3pnta9vlcy5vgzesxpz&count=5&unique=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Spotify Recent Played">
+
+- 🔭 I am currently studying for artificial intelligence projects and machine learning
+- 🌱 I'm currently learning Python e Java
+- 👩‍💻 I'm wanting to collaborate artificial intelligence, as i am passionate about machine learning
+- 🎮 In my spare time I also do live
+- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/SarahTomaz">
