@@ -1,17 +1,14 @@
 <table>
-  <tr>
-    <td width="50%">
-      ## Hi I'm Sarah Tomaz 👋
-      - 🔭 I am currently studying for artificial intelligence projects and machine learning
-      - 🌱 I'm currently learning Python e Java
-      - 👩‍💻 I'm wanting to collaborate artificial intelligence, as i am passionate about machine learning
-      - 🎮 In my spare time I also do live
-      - 😄 Pronouns: she/her
-    </td>
-    <td width="50%">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=vyt6qu3pnta9vlcy5vgzesxpz&count=5&width=400" alt="Spotify Recently Played">
-    </td>
-  </tr>
+ <td width="50%">
+  <h2>Hi I'm Sarah Tomaz 👋</h2>
+  <ul>
+    <li>🔭 I am currently studying for artificial intelligence projects and machine learning</li>
+    <li>🌱 I'm currently learning Python e Java</li>
+    <li>👩‍💻 I'm wanting to collaborate artificial intelligence, as i am passionate about machine learning</li>
+    <li>🎮 In my spare time I also do live</li>
+    <li>😄 Pronouns: she/her</li>
+  </ul>
+</td>
 </table>
 
 <div align="center">
