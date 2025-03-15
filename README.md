@@ -1,4 +1,4 @@
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=Netherr&unique=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Spotify Recent Played
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=Sarah_Tomaz_@outlook.com&unique=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Spotify Recent Played
 
 ## Hi I'm Sarah Tomaz 👋
 
