@@ -1,5 +1,4 @@
 <table>
-    <td width="50%">
       <h2>Hi I'm Sarah Tomaz 👋</h2>
       <ul style="list-style-type: none; padding-left: 0;">
         <li>🔭 I am currently studying for artificial intelligence projects and machine learning</li>
@@ -8,8 +7,7 @@
         <li>🎮 In my spare time I also do live</li>
         <li>😄 Pronouns: she/her</li>
       </ul>
-     </td>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=vyt6qu3pnta9vlcy5vgzesxpz&count=5&width=400" alt="Spotify Recently Played">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=vyt6qu3pnta9vlcy5vgzesxpz&count=5&width="400px" max-width="400px" width="400px" align="right alt="Spotify Recently Played">
 </table>
 
 <div align="center">
