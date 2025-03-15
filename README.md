@@ -1,3 +1,5 @@
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=Netherr&unique=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Spotify Recent Played
+
 ## Hi I'm Sarah Tomaz 👋
 
 - 🔭 I am currently studying for artificial intelligence projects and machine learning
