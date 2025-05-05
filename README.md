@@ -2,7 +2,7 @@
 
 ## Hi I'm Sarah Tomaz 👋
 - 🔭 I am currently studying for artificial intelligence projects and machine learning
-- 🌱 I'm currently learning Python e Java
+- 🌱 I'm currently learning Python and Java
 - 👩‍💻 I'm wanting to collaborate artificial intelligence, as i am passionate about machine learning
 - 🎮 In my spare time I also do live
 - 😄 Pronouns: she/her
