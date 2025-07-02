@@ -6,7 +6,6 @@
 - 👩‍💻 I'm wanting to collaborate artificial intelligence, as i am passionate about machine learning
 - 🎮 In my spare time I also do live
 - 😄 Pronouns: she/her
-- Program @Roll20
 
 ---
 
